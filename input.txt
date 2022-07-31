@@ -1,0 +1,1 @@
+assign float test = 1.5 + 12 / 3;
